@@ -1,0 +1,28 @@
+body {
+    background-image:url("CUTE-maths-study.png");
+    background-size: cover;
+}
+
+#div{
+    margin:0;
+    padding:0;
+    text-align: center;
+    position:absolute;
+    top:50%;
+    left:50%;
+    right:50%;
+    bottom: 50%;
+}
+
+#header{
+font-size: 500px;
+}
+
+#output{
+
+    background:white;
+    border-radius: 10px;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
